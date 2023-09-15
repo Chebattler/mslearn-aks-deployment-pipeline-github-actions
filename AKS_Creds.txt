@@ -1,0 +1,7 @@
+> Resource Group Name: mslearn-gh-pipelines-12713
+-> ACR Name: contosocontainerregistry9219
+-> ACR Login Username: contosocontainerregistry9219
+-> ACR Password: 6mgs4DCByYEFtds2of7KAKK1QN3MfurKxku9pHHvql+ACRB7YQcA
+-> AKS Cluster Name: contosocontainerregistry9219
+-> AKS DNS Zone Name: f9eec4a08da14f358acd.eastus.aksapp.io
+
